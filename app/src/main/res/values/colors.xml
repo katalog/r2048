@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#CCC9BCAC</color>
+    <color name="colorPrimaryDark">#99C9BCAC</color>
+    <color name="colorAccent">#EDCC5F</color>
+
+    <color name="offWhiteBackground">#faf8ef</color>
+    <color name="offWhiteText">#f9f6f2</color>
+
+    <color name="tanBackground">#A49381</color>
+    <color name="tanTile">#C9BCAC</color>
+    <color name="redButtonBackground">#f65e3d</color>
+    <color name="brownButtonBackground">#ff3c3a33</color>
+    <color name="yellowButtonBackground">#EDCC5F</color>
+    <color name="blueButtonBackground">#4071ca</color>
+    <color name="tanButtonBackground">#A49381</color>
+
+    <color name="transparentBrown">#77EEE4DA</color>
+    <color name="transparentYellow">#77edc22e</color>
+
+    <color name="tileTextLight">#fff9f6f2</color>
+    <color name="textBrown">#766E65</color>
+
+    <color name="tile2">#ffeee4da</color>
+    <color name="tile4">#ffede0c8</color>
+    <color name="tile8">#fff2b179</color>
+    <color name="tile16">#fff59563</color>
+    <color name="tile32">#fff67c5f</color>
+    <color name="tile64">#fff65e3b</color>
+    <color name="tile128">#ffedcf72</color>
+    <color name="tile256">#ffedcf72</color>
+    <color name="tile512">#ffedc850</color>
+    <color name="tile1024">#ffedc53f</color>
+    <color name="tile2048">#ffedc22e</color>
+    <color name="tileSuper">#ff3c3a32</color>
+</resources>
